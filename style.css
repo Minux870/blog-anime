@@ -1,0 +1,145 @@
+.carte{
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 40px 40px 40px 40px;
+    }
+
+
+.bodytext{
+    display: inline-block;
+    align-self: flex-end;
+    padding-bottom:10px;
+    background-color: rgba(10, 10, 10, 0.5);
+    border-radius: 40px 40px 40px 40px;
+    color: lightcoral;
+    margin-bottom: 14px;
+}
+
+.cartesingle{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:1750px;
+    height:1000px;
+    margin:100px;
+}
+.bgall{
+    background-image:url('https://media4.giphy.com/media/ovWn8N8TVg8hi/giphy.gif?cid=ecf05e4712q34z8fa8d795xchds2fqj3pqgqorn4fx419lfc&rid=giphy.gif&ct=g');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.gigadiv{
+    margin-top:100px;
+}
+.singleimg{
+    height:800px;
+    background-size: cover;
+    border-radius: 40px 40px 40px 40px;
+}
+.fontsize{
+    font-size:80%;
+}
+.alert{
+    text-decoration: underline red;
+}
+
+.grand{
+    height:500px;
+    width:500px;
+}
+
+.text-15{
+    font-size:40%;
+    font-weight: bold;
+}
+
+.bgfixe{
+    position:fixed;
+    font-size: 75%;
+    font-weight: bold;
+    background-color:rgb(144, 238, 144); 
+}
+.unpeuplusgros{
+    font-size: 75%;
+}
+
+
+.aa{
+    text-decoration: none;
+    color: black;
+}
+.suggesttitle{
+    font-size: 85%;
+    font-weight: bold;
+    color: red;
+}
+.bggristransparent{
+    background-color: rgba(220, 220, 220, 0.2)!important;
+     
+}
+.suggestbg{
+    background-color: rgba(252, 126, 235, 0.8)!important;
+}
+
+.getborders{
+    border-radius: 100px!important;
+}
+.title{
+    font-size: 136%;
+}
+.lightpink{
+    color: lightpink;
+}
+.notimportant{
+    font-size: 125%;
+}
+.title2{
+    font-size: 320%;
+}
+
+.arrondi{
+    border-radius: 40px;
+}
+
+.espacecomment{
+    border: solid black 1px;
+    padding: 10px;
+    background-color: rgba(220, 220, 220, 0.5)!important;
+}
+
+.textsize35{
+    font-size: 200%;
+}
+
+.forminscription{
+    border: solid blueviolet 5px;
+    border-radius: 40px;
+    background-color: rgba(252, 126, 235, 0.4);
+}
+
+.haut-gauche{
+    top:0px!important; left:0px!important;
+    position:fixed!important;
+}
+.haut-droite{
+    top:0px!important; right:0px!important;
+    position:fixed!important;
+}
+.be:hover {
+        color: #1e2125!important;
+        background-color: #e9ecef!important;
+}
+.be{
+    color:#1e2125!important;
+}
+.bg-input{
+    background-color: rgba(0, 0, 0, 0.4);
+    color:white;
+    font-weight: bold;
+}
+.btn-primary {
+    border-radius:50px;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+}
